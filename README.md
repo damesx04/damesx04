@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @damesx04
-- 👀 I’m interested in building fun websites/applications that can be applied to day-to-day life.
+- 👀 I’m interested in building fun websites/applications. 
 - 🌱 I’m currently learning React and Firebase.
 - 💞️ I’m looking to collaborate on anything that interests me. Throw ideas my way :)
 - 📫 How to reach me: xalandd@gmail.com
